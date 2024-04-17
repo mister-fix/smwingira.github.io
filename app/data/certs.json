@@ -1,0 +1,28 @@
+{
+  "certs": [
+    {
+      "title": "Google IT Support Certificate",
+      "issuer": "QCC",
+      "issued": "Aug 2022",
+      "link": "https://www.credly.com/badges/84199d92-66bf-46fa-8360-7a20cba08486/linked_in_profile"
+    },
+    {
+      "title": "Crash Course on Python",
+      "issuer": "Coursera",
+      "issued": "Jun 2023",
+      "link": "https://www.coursera.org/account/accomplishments/verify/LL6DX8M8C8VA"
+    },
+    {
+      "title": "Java Programming I",
+      "issuer": "University of Helsinki",
+      "issued": "May 2023",
+      "link": "https://certificates.mooc.fi/validate/l6cvdo35fy"
+    },
+    {
+      "title": "Java Programming II",
+      "issuer": "University of Helsinki",
+      "issued": "May 2023",
+      "link": "https://certificates.mooc.fi/validate/11f4ucf50m7"
+    }
+  ]
+}

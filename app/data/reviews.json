@@ -1,0 +1,20 @@
+{
+  "reviews": [
+    {
+      "color": "#6366F1",
+      "name": "Benjamin Dunn",
+      "role": "CEO",
+      "company": "D9OTechnologies",
+      "date": "Jun 2017",
+      "text": "I have worked with Stephen over the course of several years and he has always demonstrated utmost professionalism, dilligence, and skill related to web design and development, consistently delivering top-notch solutions. He is very hard working, and ensures to meet all requirements and his innovative approach to problem-solving have greatly contributed to our success, and we continue to work with him even to this day because we trust him to always deliver."
+    },
+    {
+      "color": "#0EA5E9",
+      "name": "Gervas Wilfred",
+      "role": "Recruitment Specialist",
+      "company": "Novus Consulting",
+      "date": "Dec 2022",
+      "text": "I am delighted to endorse Stephen for his exemplary professionalism and remarkable contributions to Novus Consulting. We tasked him with designing, developing, and launching our website, ensuring that it's easy to upkeep and update with new information. His innovative strategies and meticulous attention to detail have significantly elevated our web presence thus far. Stephen's dedication, coupled with his exceptional communication skills, makes him an invaluable asset to any endeavor."
+    }
+  ]
+}

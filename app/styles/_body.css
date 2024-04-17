@@ -1,0 +1,110 @@
+/*------------------------------------------------------------------
+[1.2. Body]
+------------------------------------------------------------------*/
+/*------------------------------------------------------------------
+[#. Tailwind imports]
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*------------------------------------------------------------------
+[#. HTML/BODY]
+*/
+html,
+body,
+:root {
+  min-width: 320px;
+  min-height: 100vh;
+  @apply h-full w-full;
+  position: relative;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1;
+  color-scheme: light dark;
+  color: rgba(119, 119, 125, 1);
+  background-color: #F9F9F9;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+section,
+footer,
+.section {
+  padding: 0 0;
+}
+
+/*------------------------------------------------------------------
+[#. Container]
+*/
+.container,
+.container-fluid,
+.container-sm,
+.container-md,
+.container-lg,
+.container-xl {
+  width: 100%;
+  padding: 0 1rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+  .container,
+  .container-sm {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container,
+  .container-sm,
+  .container-md {
+    max-width: 720px;
+  }
+}
+
+/* @media (min-width: 992px) {
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl {
+    max-width: 1320px;
+  }
+} */
+
+/*------------------------------------------------------------------
+[#. Lists]
+*/
+ul,
+ol {
+  list-style-type: none;
+}
+
+#certifications {
+  .cert-box {
+    &:first-of-type {
+      /* padding-bottom: 1.5rem; */
+    }
+    &:not(:first-of-type),
+    &:not(:last-of-type) {
+      /* padding: 1.5rem 0; */
+      /* border: 1px solid red; */
+    }
+    &:last-of-type {
+      /* padding-top: 1.5rem; */
+      /* border: 1px solid red; */
+    }
+  }
+}

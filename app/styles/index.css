@@ -1,0 +1,25 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+--------------------------------------------------------------------
+Project: smwingira.github.io
+Project URI: https://smwingira.github.io/
+Author: Stephen M.
+Author URI: https://stephenwm.me/
+Description: E-Learning application.
+Version: 0.1.0
+Last change: 04/16/2024 [Initial build (sM)]
+Assigned to: Stephen M.
+Primary use: Application
+License: MIT
+License URI: LICENSE
+------------------------------------------------------------------*/
+/*------------------------------------------------------------------
+[Table of Contents]
+--------------------------------------------------------------------
+--- 1.1. Resets
+--- 1.2. Body
+--- 1.3. Typography
+------------------------------------------------------------------*/
+@import '_resets.css';
+@import '_body.css';
+@import '_type.css';

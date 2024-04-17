@@ -1,0 +1,168 @@
+{
+  "programming": [
+    {
+      "skill": "Java",
+      "icon": "https://cdn.simpleicons.org/oracle/"
+    },
+    {
+      "skill": "C++",
+      "icon": "https://cdn.simpleicons.org/cplusplus/"
+    },
+    {
+      "skill": "Python",
+      "icon": "https://cdn.simpleicons.org/python"
+    },
+    {
+      "skill": "JavaScript",
+      "icon": "https://cdn.simpleicons.org/javascript"
+    },
+    {
+      "skill": "PHP",
+      "icon": "https://cdn.simpleicons.org/php"
+    },
+    {
+      "skill": "TypScript",
+      "icon": "https://cdn.simpleicons.org/typescript"
+    },
+    {
+      "skill": "React.js",
+      "icon": "https://cdn.simpleicons.org/react"
+    },
+    {
+      "skill": "EJS",
+      "icon": "https://cdn.simpleicons.org/ejs"
+    },
+    {
+      "skill": "HTML",
+      "icon": "https://cdn.simpleicons.org/html5"
+    },
+    {
+      "skill": "CSS",
+      "icon": "https://cdn.simpleicons.org/css3"
+    },
+    {
+      "skill": "Sass",
+      "icon": "https://cdn.simpleicons.org/sass"
+    },
+    {
+      "skill": "TailwindCSS",
+      "icon": "https://cdn.simpleicons.org/tailwindcss"
+    },
+    {
+      "skill": "PostCSS",
+      "icon": "https://cdn.simpleicons.org/postcss"
+    },
+    {
+      "skill": "Bootstrap",
+      "icon": "https://cdn.simpleicons.org/bootstrap"
+    },
+    {
+      "skill": "jQuery",
+      "icon": "https://cdn.simpleicons.org/jquery"
+    },
+    {
+      "skill": "Next.js",
+      "icon": "https://cdn.simpleicons.org/next.js"
+    },
+    {
+      "skill": "Android Studio",
+      "icon": "https://cdn.simpleicons.org/androidstudio"
+    }
+  ],
+  "databases": [
+    {
+      "skill": "Node.js",
+      "icon": "https://cdn.simpleicons.org/node.js"
+    },
+    {
+      "skill": "Express",
+      "icon": "https://cdn.simpleicons.org/express"
+    },
+    {
+      "skill": "Mongoose",
+      "icon": "https://cdn.simpleicons.org/mongoose"
+    },
+    {
+      "skill": "GraphQL",
+      "icon": "https://cdn.simpleicons.org/graphql"
+    },
+    {
+      "skill": "Prisma",
+      "icon": "https://cdn.simpleicons.org/prisma"
+    },
+    {
+      "skill": "Heroku",
+      "icon": "https://cdn.simpleicons.org/heroku"
+    },
+    {
+      "skill": "MySQL",
+      "icon": "https://cdn.simpleicons.org/mysql"
+    },
+    {
+      "skill": "SQLite",
+      "icon": "https://cdn.simpleicons.org/sqlite"
+    },
+    {
+      "skill": "PostgreSQL",
+      "icon": "https://cdn.simpleicons.org/postgresql"
+    },
+    {
+      "skill": "MongoDB",
+      "icon": "https://cdn.simpleicons.org/mongodb"
+    },
+    {
+      "skill": "Firebase",
+      "icon": "https://cdn.simpleicons.org/firebase"
+    }
+  ],
+  "tools": [
+    {
+      "skill": "Git",
+      "icon": "https://cdn.simpleicons.org/git"
+    },
+    {
+      "skill": "GitHub",
+      "icon": "https://cdn.simpleicons.org/github"
+    },
+    {
+      "skill": "Gitlab",
+      "icon": "https://cdn.simpleicons.org/gitlab"
+    },
+    {
+      "skill": "GNU",
+      "icon": "https://cdn.simpleicons.org/gnu"
+    },
+    {
+      "skill": "Vite",
+      "icon": "https://cdn.simpleicons.org/vite"
+    },
+    {
+      "skill": "Webpack",
+      "icon": "https://cdn.simpleicons.org/webpack"
+    },
+    {
+      "skill": "Gulp",
+      "icon": "https://cdn.simpleicons.org/gulp"
+    },
+    {
+      "skill": "ESLint",
+      "icon": "https://cdn.simpleicons.org/eslint"
+    },
+    {
+      "skill": "Prettier",
+      "icon": "https://cdn.simpleicons.org/prettier"
+    },
+    {
+      "skill": "Jest",
+      "icon": "https://cdn.simpleicons.org/jest"
+    },
+    {
+      "skill": "Cypress",
+      "icon": "https://cdn.simpleicons.org/cypress"
+    },
+    {
+      "skill": "Espresso",
+      "icon": "https://cdn.simpleicons.org/android"
+    }
+  ]
+}
