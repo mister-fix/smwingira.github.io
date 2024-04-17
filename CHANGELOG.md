@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 04/17/2024
+
+### Added
+
+- Dark mode toggler for small and large screens.
+- Dark mode classes for all on page elements and necessary components.
+
 ## [0.1.0] - 04/16/2024
 
 Initial release of the project.
@@ -27,5 +34,6 @@ Initial release of the project.
 - package.json: The project's package.json file, which lists project dependencies.
 - README.md: The project's main documentation file.
 
-[Unreleased]: https://github.com/smwingira/smwingira.github.io/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/smwingira/smwingira.github.io/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/smwingira/smwingira.github.io/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/smwingira/smwingira.github.io/releases/tag/v0.1.0
